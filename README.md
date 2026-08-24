@@ -39,12 +39,13 @@
   <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=flat-square&logo=redis" alt="Redis" />
   <img src="https://img.shields.io/badge/Infra-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Infra-Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
   <img src="https://img.shields.io/badge/Billing-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
 </p>
 
 **Core stack**
 
-`Go` · `PostgreSQL` · `Redis` · `JWT` · `Velocity` · `Paper` · `WebAssembly` · `Stripe` · `Linux` · `Caddy`
+`Go` · `PostgreSQL` · `Redis` · `JWT` · `Velocity` · `Paper` · `WebAssembly` · `Stripe` · `Linux` · `Windows Server` · `Caddy`
 
 **Current focus**
 
@@ -63,12 +64,12 @@
 ### Systems · Backend · Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,postgres,redis,git,github,bash,nodejs,vscode&perline=9" alt="Systems and backend technologies" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker,postgres,redis,git,github,bash,nodejs,vscode&perline=10" alt="Systems and backend technologies" />
 </p>
 
 <div align="center">
 
-`REST APIs` · `WebSockets` · `JWT` · `Paper / Velocity` · `Roblox Studio` · `Linux servers` · `Networking` · `AI integrations` · `WebAssembly` · `Automation`
+`REST APIs` · `WebSockets` · `JWT` · `Paper / Velocity` · `Roblox Studio` · `Linux servers` · `Windows Server` · `Networking` · `AI integrations` · `WebAssembly` · `Automation`
 
 </div>
 
@@ -80,7 +81,7 @@
 |---|---|
 | 🎓 Education tech | EduCraft, browser game learning environments, school infrastructure |
 | 🧠 AI | PCB-Vibe, local inference, automation, intelligent systems |
-| 🌐 Infrastructure | Linux servers, networking, self-hosting, monitoring, proxies |
+| 🌐 Infrastructure | Linux + Windows Server, networking, self-hosting, monitoring, proxies |
 | 🎮 Game tech | Minecraft plugins/mods, Paper/Velocity, Roblox development |
 | 🖨️ Hardware | Electronics, 3D printing, Raspberry Pi and embedded experiments |
 
