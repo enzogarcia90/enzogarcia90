@@ -30,7 +30,7 @@
 
 ## 🚀 Featured project
 
-### 🎓 [EduCraft](https://github.com/enzogarcia90/EduCraft)
+### 🎓 EduCraft
 
 > Educational platform combining a browser-accessible client, backend services and managed game-server infrastructure for schools and classrooms.
 
@@ -50,6 +50,8 @@
 **Current focus**
 
 `multi-center architecture` · `classroom orchestration` · `dashboards` · `billing` · `security systems` · `backend ↔ proxy ↔ Paper integration`
+
+Public frontend repository: **[EduCraft-web](https://github.com/enzogarcia90/EduCraft-web)**
 
 ---
 
@@ -91,9 +93,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/github/stars/enzogarcia90/EduCraft?style=for-the-badge&logo=github&label=EduCraft%20Stars" alt="EduCraft stars" />
-<img src="https://img.shields.io/github/last-commit/enzogarcia90/EduCraft?style=for-the-badge&logo=git&label=EduCraft%20Last%20Commit" alt="EduCraft last commit" />
-<img src="https://img.shields.io/github/repo-size/enzogarcia90/EduCraft?style=for-the-badge&logo=github&label=EduCraft%20Size" alt="EduCraft repository size" />
+<img src="https://img.shields.io/github/stars/enzogarcia90/EduCraft-web?style=for-the-badge&logo=github&label=EduCraft%20Web%20Stars" alt="EduCraft-web stars" />
+<img src="https://img.shields.io/github/last-commit/enzogarcia90/EduCraft-web?style=for-the-badge&logo=git&label=EduCraft%20Web%20Last%20Commit" alt="EduCraft-web last commit" />
+<img src="https://img.shields.io/github/repo-size/enzogarcia90/EduCraft-web?style=for-the-badge&logo=github&label=EduCraft%20Web%20Size" alt="EduCraft-web repository size" />
 
 </div>
 
