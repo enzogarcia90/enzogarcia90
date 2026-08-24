@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Enzo%20Garc%C3%ADa&fontAlign=50&fontAlignY=38&desc=Developer%20%C2%B7%20Systems%20%C2%B7%20AI%20%C2%B7%20Game%20Tech&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Enzo%20Garc%C3%ADa&fontAlign=50&fontAlignY=38&desc=Developer%20%C2%B7%20Systems%20%C2%B7%20AI%20%C2%B7%20Game%20Tech&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" alt="Enzo García header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&center=true&vCenter=true&width=800&lines=Building+EduCraft;Backend+%2B+Infrastructure+%2B+AI;Linux%2C+servers%2C+networking+and+game+tech;If+it+doesn%27t+exist%2C+I+build+it" alt="Typing SVG" />
+<a href="https://github.com/enzogarcia90">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&center=true&vCenter=true&width=800&lines=Building+EduCraft;Backend+%2B+Infrastructure+%2B+AI;Linux%2C+servers%2C+networking+and+game+tech;If+it+doesn%27t+exist%2C+I+build+it" alt="Building EduCraft and infrastructure" />
 </a>
 
 <br />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=enzogarcia90&style=for-the-badge)](https://github.com/enzogarcia90)
-[![Followers](https://img.shields.io/github/followers/enzogarcia90?style=for-the-badge&logo=github)](https://github.com/enzogarcia90?tab=followers)
-[![GitHub](https://img.shields.io/badge/GitHub-enzogarcia90-181717?style=for-the-badge&logo=github)](https://github.com/enzogarcia90)
+<img src="https://img.shields.io/badge/Focus-EduCraft-2ea44f?style=for-the-badge" alt="EduCraft" />
+<img src="https://img.shields.io/badge/Linux-Systems-181717?style=for-the-badge&logo=linux" alt="Linux systems" />
+<img src="https://img.shields.io/badge/AI-Experiments-6f42c1?style=for-the-badge" alt="AI experiments" />
+<img src="https://img.shields.io/github/followers/enzogarcia90?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
 
 </div>
 
@@ -29,17 +30,17 @@
 
 ## 🚀 Featured project
 
-<div align="center">
+### 🎓 [EduCraft](https://github.com/enzogarcia90/EduCraft)
 
-<a href="https://github.com/enzogarcia90/EduCraft">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=enzogarcia90&repo=EduCraft&theme=github_dark&hide_border=true" />
-</a>
+> Educational platform combining a browser-accessible client, backend services and managed game-server infrastructure for schools and classrooms.
 
-</div>
-
-### 🎓 EduCraft
-
-A platform designed for educational centers, combining a browser-accessible client with backend services and game-server infrastructure for classes, centers and managed learning environments.
+<p>
+  <img src="https://img.shields.io/badge/Backend-Go-00ADD8?style=flat-square&logo=go" alt="Go" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=flat-square&logo=redis" alt="Redis" />
+  <img src="https://img.shields.io/badge/Infra-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Billing-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+</p>
 
 **Core stack**
 
@@ -56,13 +57,13 @@ A platform designed for educational centers, combining a browser-accessible clie
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,rust,cpp,c,lua,js,html,css,java&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,go,rust,cpp,c,lua,js,html,css,java&perline=10" alt="Programming languages" />
 </p>
 
 ### Systems · Backend · Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,postgres,redis,git,github,bash,nodejs,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,postgres,redis,git,github,bash,nodejs,vscode&perline=9" alt="Systems and backend technologies" />
 </p>
 
 <div align="center">
@@ -85,51 +86,13 @@ A platform designed for educational centers, combining a browser-accessible clie
 
 ---
 
-## 🏆 GitHub trophies
+## 📊 GitHub snapshot
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=enzogarcia90&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
-
-</div>
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=enzogarcia90&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzogarcia90&layout=compact&langs_count=10&hide_border=true&theme=github_dark" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=enzogarcia90&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=enzogarcia90&theme=github-compact&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-## 🐍 Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzogarcia90/enzogarcia90/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzogarcia90/enzogarcia90/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/enzogarcia90/enzogarcia90/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://img.shields.io/github/stars/enzogarcia90/EduCraft?style=for-the-badge&logo=github&label=EduCraft%20Stars" alt="EduCraft stars" />
+<img src="https://img.shields.io/github/last-commit/enzogarcia90/EduCraft?style=for-the-badge&logo=git&label=EduCraft%20Last%20Commit" alt="EduCraft last commit" />
+<img src="https://img.shields.io/github/repo-size/enzogarcia90/EduCraft?style=for-the-badge&logo=github&label=EduCraft%20Size" alt="EduCraft repository size" />
 
 </div>
 
@@ -141,6 +104,6 @@ A platform designed for educational centers, combining a browser-accessible clie
 
 `Software` · `Infrastructure` · `AI` · `Games` · `Systems`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
